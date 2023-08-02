@@ -5,7 +5,7 @@
 name: Build and deploy Python app to Azure Web App - python-stocks
 
 env:
-  AZURE_WEB_APP_NAME : python_stocks_007
+  AZURE_WEB_APP_NAME : 'python-stocks-007'
   PYTHON_VERSION : '3.8'
 
 on:
